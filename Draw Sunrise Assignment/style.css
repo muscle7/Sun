@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    background: blue;
+    border: 1px solid grey; 
+}
+
+img {
+    display: none;
+}
